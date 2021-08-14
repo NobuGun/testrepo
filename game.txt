@@ -1,2 +1,5 @@
-dragon
-elf 
+Dragon
+Elf 
+Orc
+Kingdom
+War
