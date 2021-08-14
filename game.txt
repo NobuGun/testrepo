@@ -3,3 +3,10 @@ Elf
 Orc
 Kingdom
 War
+Dragon Queen
+Elf Child
+Forest
+Village
+Quest
+Magic
+Power
