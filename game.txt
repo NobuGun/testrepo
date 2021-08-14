@@ -28,7 +28,7 @@ Dragons can only have one offspring in their lifetime, so they have committed su
 -Start:
 -The dragon queen is poisoned
 -Cancellor takes control and he rules the kingdom
--He was born in Elves village
+-He was born in Elf village
 -Introduction to the friendship and history of elves and dragons
 -Management and game learning
 -Capacity management
