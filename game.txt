@@ -1,12 +1,37 @@
-Dragon
-Elf 
-Orc
-Kingdom
-War
-Dragon Queen
-Elf Child
-Forest
-Village
-Quest
-Magic
-Power
+Description of a dragon soul
+
+Characters:
+- Dragon
+- Elf 
+- Orc
+- Kingdom
+- War
+- Dragon Queen
+- Elf Child
+- Forest
+- Village
+- Quest
+- Magic
+- Power
+
+* the game (microphone) begins with a "seance" read aloud. Enter questions and answers into the game using a microphone.
+* the uniqueness of the game: if the player plays the game throughout, he can create a code for free,
+ with which you can give a gift to a friend and that person will receive the game for free.
+* Invited players may not pass the game.
+* The dead queen at the end of the game that we were just reborn.
+Dragons can only have one offspring in their lifetime, so they have committed suicide.
+
+
+
+
+
+-Start:
+-The dragon queen is poisoned
+-Cancellor takes control and he rules the kingdom
+-He was born in Elves village
+-Introduction to the friendship and history of elves and dragons
+-Management and game learning
+-Capacity management
+missions and opponent selection
+-On the way as a teenager in the mountains
+-Memory of the Queen's slain child
